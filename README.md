@@ -1,7 +1,7 @@
 # Movie-Box-Office-predictor :movie_camera: :moneybag:
 
 ## Objective: 
-To predict the box office revenue generated for movies since January 1st, 1985 until 5th November, 2023.
+To predict the box office revenue generated for movies since January 1st, 2015 until 5th November, 2023.
 
 ## Dataset:
 **Original dataset used: https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies/data** </br>
