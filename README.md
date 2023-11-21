@@ -8,13 +8,14 @@ To predict the box office revenue generated for movies since January 1st, 2015 u
 **Actual dataset used: https://drive.google.com/file/d/1uPtHyqpAKkqZUpft8A0FPVXPR2iT32SN/view?usp=sharing**  </br> </br> Kindly download this .csv file (the one mentioned as 'Actual dataset used') on your local machine and make the appropriate changes in the 'Loading the dataset' step as shown in the Movie-revenue_predictor.ipynb file.
 
 
-## Install: scikit-learn, numpy, matplotlib, pandas, seaborn as follows:
+## Install: scikit-learn, numpy, matplotlib, pandas, seaborn and xgboost as follows:
 
  - conda install -c anaconda scikit-learn 
  - conda install pandas
  - conda install numpy
  - conda install -c conda-forge matplotlib
- - conda install seaborn 
+ - conda install seaborn
+ - pip install xgboost
  
 ## Tasks:
 
