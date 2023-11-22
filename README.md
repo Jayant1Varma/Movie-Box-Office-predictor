@@ -38,6 +38,8 @@ Code found in the pdf
 Github repository link: https://github.com/Jayant1Varma/Movie-Box-Office-predictor.git </br>
 **Original dataset citation: The dataset used was https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies/data .** </br>
 
+Presentation video link: https://youtu.be/R6Qv8SrqOKY
+
 However, this dataset is updated daily, but we used this dataset as it was available on November 5th 2023
 **You can find the exact dataset we used here: https://drive.google.com/file/d/1uPtHyqpAKkqZUpft8A0FPVXPR2iT32SN/view?usp=sharing** It is also available on our github 
 
