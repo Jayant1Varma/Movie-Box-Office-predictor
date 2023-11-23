@@ -1,4 +1,8 @@
 # Movie-Box-Office-predictor :movie_camera: :moneybag:
+## Authors:
+- Jayant
+- Christopher Budd
+- Mustafa Syed
 
 ## Objective: 
 To predict the box office revenue generated for movies since January 1st, 2015 until 5th November, 2023.
