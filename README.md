@@ -1,4 +1,5 @@
 # Movie-Box-Office-predictor :movie_camera: :moneybag:
+
 ## Authors:
 - Jayant
 - Christopher Budd
